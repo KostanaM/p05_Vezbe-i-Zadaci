@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Kostana\Desktop\New folder\IT prekvalifikacije\Predavanja-Eclipse\p05_VezbeZadaciIzSvihOblastiDoSada\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1161683224.index
+609821824.index
